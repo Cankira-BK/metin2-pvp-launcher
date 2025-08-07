@@ -1,0 +1,27 @@
+<skin background_image="launcher_main_template_tp9.png">
+	<control type="text" id="TEXT_VER" text="TEXT_PATCHER_VER" x="540" y="170" color="#c7b69b" bg_color="#343434"/>
+	<control type="button" id="MINIMIZE" image="btn_minimize" x="579" y="162" />
+	<control type="button" id="QUIT" image="btn_quit" x="607" y="162" />
+
+	<control type="iframe" id="IFRAME_MAIN" x="80" y="195" width="562" height="315" link_url="LAUNCHER_IFRAME" />
+
+	<control type="gauge" id="PROGRESS_SUB"  image="sub_progress" x="213" y="540" />
+	<control type="gauge" id="PROGRESS_MAIN" image="total_progress" x="213" y="560" />
+	<control type="text" id="TEXT_DOWNLOADING" text="TORRENT_STATE_DOWNLOADING" x="105" y="540" color="#c7b69b" bg_color="#343434" />
+	<control type="text" id="TEXT_TOTAL" text="TORRENT_TOTAL_PROGRESS" x="105" y="560" color="#c7b69b" bg_color="#343434" />
+	
+
+	<control type="button" id="YENI_HESAP" image="btn_account" text="LAUNCHER_TEXT_ACCOUNT" bold="true" color="#c7b69b" x="80" y="596" link_url="https://www.nuya2.com/profile" />
+	<control type="button" id="OPTION" image="btn_option" text="LAUNCHER_TEXT_OPTION" bold="true" color="#c7b69b" x="173" y="596" exec_path="config.exe" enable_on_complete="true" />
+	<control type="button" id="START" image="btn_start" text="LAUNCHER_TEXT_START" bold="true" color="#c7b69b" x="530" y="596" enable_on_complete="true" />
+
+
+	<control type="text" id="TEXT_MAIN" text="TORRENT_MAIN" x="90" y="520" color="#c7b69b" bg_color="#343434" />
+	<control type="text" id="TEXT_SUB"  text="TORRENT_SUB" x="266" y="520" color="#c7b69b" bg_color="#343434" />
+	<control type="text" id="TEXT_TORRENT" text="" x="440" y="520" color="#c7b69b" bg_color="#343434" /> 
+
+	<control type="text" id="TEXT_DNSPEED" text="TORRENT_DOWNLOAD_SPEED" x="300" y="605" color="#c7b69b" bg_color="#343434" />
+
+	
+	
+</skin>
