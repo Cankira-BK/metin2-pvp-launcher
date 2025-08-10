@@ -254,7 +254,7 @@ void* EL_PatchThread::Entry()
 
 	if( bRet ) {
 #ifdef UPDATE_PATCHER_SELF
-		if (!IS_SET(g_cmdFlags, NO_DATA_PATCH) && !__IsNewPatcher() && __LaunchNewPatcher())
+		if (!__IsNewPatcher() && __LaunchNewPatcher())
 		{
 			return false; // 패치가 업데이트되면 종료해야함
 		}

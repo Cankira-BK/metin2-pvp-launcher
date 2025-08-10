@@ -35,7 +35,7 @@
 			/>
 			<Tool
 				Name="VCCustomBuildTool"
-				CommandLine=""
+				CommandLine="&#x0D;&#x0A;"
 			/>
 			<Tool
 				Name="VCXMLDataGeneratorTool"
@@ -116,7 +116,7 @@
 		</Configuration>
 		<Configuration
 			Name="MT|Win32"
-			OutputDirectory="./bin"
+			OutputDirectory="./TorrentPatchSfxBuilder"
 			IntermediateDirectory="./obj/$(ConfigurationName)"
 			ConfigurationType="1"
 			UseOfATL="1"
@@ -130,7 +130,7 @@
 			/>
 			<Tool
 				Name="VCCustomBuildTool"
-				CommandLine=""
+				CommandLine="..\..\extern\bin\python26\python.exe version.py&#x0D;&#x0A;"
 			/>
 			<Tool
 				Name="VCXMLDataGeneratorTool"
