@@ -1,0 +1,76 @@
+APP_VERSION	Versión de la app: %s
+CHECKBOX_ANSI	Codificación ANSI
+CHECKBOX_SHOW_ITEM_NAME_ON_GROUP	Mostrar el nombre del objeto en el grupo como comentario.
+CHECKBOX_SHOW_ORIGINAL_GOLD_EXP_NAME	Mantener los nombres originales de oro y experiencia.
+CLOSE	Cerrar
+CLOSE_ALERT	Cerrar
+COPYRIGHT	Todos los derechos reservados.
+COPYRIGHT_PARAGRAPH	Hecho con mucho café y amor.
+EXPORT_BUTTON	Exportar grupo
+GROUP_BLOCK_OUTPUT_PLACEHOLDER	Tu grupo será procesado aquí en este bloque.
+GROUP_DESCRIPTION	Datos principales del grupo: nombre y VNUM del objeto.
+GROUP_ITEM_SEARCH_PLACEHOLDER	Haz clic aquí para buscar objetos
+GROUP_NAME	Nombre
+GROUP_NAME_PLACEHOLDER	Nombre del grupo
+GROUP_RESULT_TITLE	Resultado del grupo
+GROUP_TITLE	Grupo
+GROUP_TYPE	Tipo
+GROUP_TYPE_NONE	Elige...
+GROUP_TYPE_NORMAL	Normal
+GROUP_TYPE_PERCENTAGE	Porcentaje
+GROUP_TYPE_QUEST	Misión
+GROUP_TYPE_SPECIAL	Especial
+IMPORT_BUTTON	Importar
+IMPORT_PARAGRAPH	También puedes importar tu grupo y ver todos los campos en detalle, incluyendo los iconos.
+IMPORT_TEXTAREA_PLACEHOLDER	Pega aquí tu grupo
+IMPORT_TITLE	Importar
+IMPORT_WARNING_ALERT	Importa solo un grupo a la vez, ya que solo se puede procesar uno.
+INFO_WARNING	Esta herramienta está en <b>versión beta</b>, pueden ocurrir errores. Para mejorarla, por favor informa de cualquier fallo que encuentres.
+ITEM_ADD_BUTTON	Añadir objeto
+ITEM_AMOUNT	Cantidad
+ITEM_AMOUNT_PLACEHOLDER	Cant.
+ITEM_AMOUNT_PLACEHOLDER2	Cantidad de objetos.
+ITEM_PARAGRAPH	Todos los objetos del grupo pueden definirse y verse abajo.
+ITEM_PART_PCT	Porcentaje de parte
+ITEM_PART_PCT_PLACEHOLDER1	%
+ITEM_PART_PCT_PLACEHOLDER2	Porcentaje de probabilidad de recibir parte.
+ITEM_RARE_PCT	Porcentaje raro
+ITEM_RARE_PCT_PLACEHOLDER1	%
+ITEM_RARE_PCT_PLACEHOLDER2	Porcentaje de probabilidad de recibir bono.
+ITEM_SEARCH_PLACEHOLDER	Haz clic aquí para buscar objetos
+ITEM_TITLE	Objetos
+LANGUAGE_AE	Árabe
+LANGUAGE_CZ	Checo
+LANGUAGE_DE	Alemán
+LANGUAGE_EN	Inglés
+LANGUAGE_ES	Español
+LANGUAGE_FR	Francés
+LANGUAGE_GR	Griego
+LANGUAGE_HU	Húngaro
+LANGUAGE_IT	Italiano
+LANGUAGE_PL	Polaco
+LANGUAGE_PT	Portugués
+LANGUAGE_RO	Rumano
+LANGUAGE_RU	Ruso
+LANGUAGE_SELECT	Seleccionar idioma
+LANGUAGE_TR	Turco
+M2DEV_FIGURE_TEXT	Hecho con cariño para la comunidad.
+MODAL_FAQ_GROUP_TYPE_NORMAL_BODY	El tipo Normal es un agrupamiento donde recibes un objeto aleatorio del grupo según el porcentaje asignado a cada uno. Cuanto mayor sea el porcentaje, más probable será recibir ese objeto.
+MODAL_FAQ_GROUP_TYPE_NORMAL_TITLE	¿Qué es el tipo Normal?
+MODAL_FAQ_GROUP_TYPE_PCT_BODY	El tipo Porcentaje es un agrupamiento donde recibes todos los objetos del grupo según su porcentaje. Si todos los objetos tienen 100 %, recibirás todos.
+MODAL_FAQ_GROUP_TYPE_PCT_TITLE	¿Qué es el tipo Porcentaje?
+MODAL_FAQ_GROUP_TYPE_QUEST_BODY	El tipo Misión se usa principalmente para misiones. Estos grupos contienen objetos necesarios para mazmorras, como entradas. También se puede usar para activar funciones al tener varios objetos del grupo.
+MODAL_FAQ_GROUP_TYPE_QUEST_TITLE	¿Qué es el tipo Misión?
+MODAL_FAQ_GROUP_TYPE_SPECIAL_BODY	El tipo Especial se utiliza para guardar valores de bonificación para objetos concretos, como amuletos, anillos u otros objetos con efectos. Puedes definir qué bonificaciones tiene cada uno.
+MODAL_FAQ_GROUP_TYPE_SPECIAL_TITLE	¿Qué es el tipo Especial?
+MODAL_FAQ_TITLE	Tipos de grupo
+PROTO_VERSION	Versión del proto: %s
+RESET_SEARCH_AFTER_ADDING_ITEM	Restablecer el campo de búsqueda después de añadir un objeto.
+SAVE_GROUP_NAME_LABEL	Guardar el nombre del grupo importado.
+SUB_TITLE_PARAGRAPH	Herramienta diseñada para ahorrar tiempo y facilitar el trabajo.
+TABLE_ITEM_AMOUNT	Cantidad
+TABLE_ITEM_ICON	Icono
+TABLE_ITEM_PART_PCT	Parte %
+TABLE_ITEM_POS	N.º
+TABLE_ITEM_RARE_PCT	Raro %
+TABLE_ITEM_VNUM	N.º V

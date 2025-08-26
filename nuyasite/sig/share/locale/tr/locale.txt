@@ -1,0 +1,76 @@
+APP_VERSION	Uygulama Sürümü: %s
+CHECKBOX_ANSI	ANSI Kodlaması
+CHECKBOX_SHOW_ITEM_NAME_ON_GROUP	Öğenin adını grup içinde yorum olarak göster.
+CHECKBOX_SHOW_ORIGINAL_GOLD_EXP_NAME	Altın ve deneyim isimlerini orijinal haliyle koru.
+CLOSE	Kapat
+CLOSE_ALERT	Kapat
+COPYRIGHT	Tüm hakları saklıdır.
+COPYRIGHT_PARAGRAPH	Bol kahve ve sevgiyle yapılmıştır.
+EXPORT_BUTTON	Grubu Dışa Aktar
+GROUP_BLOCK_OUTPUT_PLACEHOLDER	Grubun bu blokta işlenecek.
+GROUP_DESCRIPTION	Grubun temel verileri: öğenin adı ve VNUM’u.
+GROUP_ITEM_SEARCH_PLACEHOLDER	Öğeleri aramak için buraya tıkla
+GROUP_NAME	Ad
+GROUP_NAME_PLACEHOLDER	Grubun adı
+GROUP_RESULT_TITLE	Grup Sonucu
+GROUP_TITLE	Grup
+GROUP_TYPE	Tür
+GROUP_TYPE_NONE	Seç...
+GROUP_TYPE_NORMAL	Normal
+GROUP_TYPE_PERCENTAGE	Yüzdelik
+GROUP_TYPE_QUEST	Görev
+GROUP_TYPE_SPECIAL	Özel
+IMPORT_BUTTON	İçe Aktar
+IMPORT_PARAGRAPH	Grubunu içe aktarabilir ve tüm alanları detaylı olarak, simgeler dahil, görüntüleyebilirsin.
+IMPORT_TEXTAREA_PLACEHOLDER	Grubunu buraya yapıştır
+IMPORT_TITLE	İçe Aktar
+IMPORT_WARNING_ALERT	Lütfen her seferinde yalnızca bir grup içe aktar, çünkü aynı anda sadece bir grup işlenebilir.
+INFO_WARNING	Bu araç <b>beta sürümünde</b>dir, bazı sorunlar olabilir. Lütfen karşılaştığınız hataları bildirerek geliştirilmesine katkı sağlayın.
+ITEM_ADD_BUTTON	Öğe Ekle
+ITEM_AMOUNT	Miktar
+ITEM_AMOUNT_PLACEHOLDER	Adet
+ITEM_AMOUNT_PLACEHOLDER2	Öğe miktarı.
+ITEM_PARAGRAPH	Grup öğelerinin tümü aşağıdan tanımlanabilir ve görüntülenebilir.
+ITEM_PART_PCT	Parça Yüzdesi
+ITEM_PART_PCT_PLACEHOLDER1	%
+ITEM_PART_PCT_PLACEHOLDER2	Parça alma olasılığı yüzdesi.
+ITEM_RARE_PCT	Nadir Yüzde
+ITEM_RARE_PCT_PLACEHOLDER1	%
+ITEM_RARE_PCT_PLACEHOLDER2	Bonus alma olasılığı yüzdesi.
+ITEM_SEARCH_PLACEHOLDER	Öğeleri aramak için buraya tıkla
+ITEM_TITLE	Öğeler
+LANGUAGE_AE	Arapça
+LANGUAGE_CZ	Çekçe
+LANGUAGE_DE	Almanca
+LANGUAGE_EN	İngilizce
+LANGUAGE_ES	İspanyolca
+LANGUAGE_FR	Fransızca
+LANGUAGE_GR	Yunanca
+LANGUAGE_HU	Macarca
+LANGUAGE_IT	İtalyanca
+LANGUAGE_PL	Lehlce
+LANGUAGE_PT	Portekizce
+LANGUAGE_RO	Romence
+LANGUAGE_RU	Rusça
+LANGUAGE_SELECT	Dil seç
+LANGUAGE_TR	Türkçe
+M2DEV_FIGURE_TEXT	Topluluk için sevgiyle yapılmıştır.
+MODAL_FAQ_GROUP_TYPE_NORMAL_BODY	Normal Tür, gruptaki öğeler arasında belirlenen yüzdelere göre rastgele bir öğe almanı sağlar. Yüzde ne kadar yüksekse, alma ihtimalin o kadar yüksektir.
+MODAL_FAQ_GROUP_TYPE_NORMAL_TITLE	Normal tür nedir?
+MODAL_FAQ_GROUP_TYPE_PCT_BODY	Yüzdelik Tür, her öğenin yüzdesine göre tüm öğeleri almanı sağlar. Tüm öğeler %100 ise, hepsini alırsın.
+MODAL_FAQ_GROUP_TYPE_PCT_TITLE	Yüzdelik tür nedir?
+MODAL_FAQ_GROUP_TYPE_QUEST_BODY	Görev Türü, genellikle görevler için kullanılır. Bu gruplar zindan giriş biletleri gibi gerekli öğeleri barındırır. Ayrıca birden fazla görev öğesi ile fonksiyon tetiklemek için de kullanılabilir.
+MODAL_FAQ_GROUP_TYPE_QUEST_TITLE	Görev türü nedir?
+MODAL_FAQ_GROUP_TYPE_SPECIAL_BODY	Özel Tür, belirli öğelere ait bonus değerleri saklamak için kullanılır. Bu genellikle muska, yüzük gibi takviye öğelerinde kullanılır.
+MODAL_FAQ_GROUP_TYPE_SPECIAL_TITLE	Özel tür nedir?
+MODAL_FAQ_TITLE	Grup Türleri
+PROTO_VERSION	Proto Sürümü: %s
+RESET_SEARCH_AFTER_ADDING_ITEM	Öğe eklendikten sonra arama kutusunu sıfırla.
+SAVE_GROUP_NAME_LABEL	İçe aktarılan grubun adını kaydet.
+SUB_TITLE_PARAGRAPH	Zaman kazandırmak ve süreci kolaylaştırmak için tasarlanmış bir araç.
+TABLE_ITEM_AMOUNT	Miktar
+TABLE_ITEM_ICON	Simge
+TABLE_ITEM_PART_PCT	Parça %
+TABLE_ITEM_POS	#
+TABLE_ITEM_RARE_PCT	Nadir %
+TABLE_ITEM_VNUM	V Numara

@@ -1,0 +1,76 @@
+APP_VERSION	App Version: %s
+CHECKBOX_ANSI	ANSI Encoding
+CHECKBOX_SHOW_ITEM_NAME_ON_GROUP	Show the item name on the group as a comment.
+CHECKBOX_SHOW_ORIGINAL_GOLD_EXP_NAME	Keep original gold and experience names.
+CLOSE	Close
+CLOSE_ALERT	Close
+COPYRIGHT	All rights reserved.
+COPYRIGHT_PARAGRAPH	Made with a lot of coffee and love.
+EXPORT_BUTTON	Export Group
+GROUP_BLOCK_OUTPUT_PLACEHOLDER	Your group will be processed here in this block.
+GROUP_DESCRIPTION	Main data of the group, what is the name and vnum of the item.
+GROUP_ITEM_SEARCH_PLACEHOLDER	Click here to search for items
+GROUP_NAME	Name
+GROUP_NAME_PLACEHOLDER	Name of the group
+GROUP_RESULT_TITLE	Group Result
+GROUP_TITLE	Group
+GROUP_TYPE	Type
+GROUP_TYPE_NONE	Choose...
+GROUP_TYPE_NORMAL	Normal
+GROUP_TYPE_PERCENTAGE	Percentage
+GROUP_TYPE_QUEST	Quest
+GROUP_TYPE_SPECIAL	Special
+IMPORT_BUTTON	Import
+IMPORT_PARAGRAPH	You can also import your group and see all the fields in detail, including the icons.
+IMPORT_TEXTAREA_PLACEHOLDER	Paste your group here
+IMPORT_TITLE	Import
+IMPORT_WARNING_ALERT	Please import one group at a time as it is only possible to process information for one group.
+INFO_WARNING	This tool is in <b>beta version</b>, some issues may occur. In order to improve this tool and contribute to it, please report any bugs you find.
+ITEM_ADD_BUTTON	Add Item
+ITEM_AMOUNT	Amount
+ITEM_AMOUNT_PLACEHOLDER	Qty.
+ITEM_AMOUNT_PLACEHOLDER2	Amount of items.
+ITEM_PARAGRAPH	All group items can be defined and viewed below.
+ITEM_PART_PCT	Part Percentage
+ITEM_PART_PCT_PLACEHOLDER1	%
+ITEM_PART_PCT_PLACEHOLDER2	Percentage of receiving part.
+ITEM_RARE_PCT	Rare Percentage
+ITEM_RARE_PCT_PLACEHOLDER1	%
+ITEM_RARE_PCT_PLACEHOLDER2	Percentage of receiving bonus.
+ITEM_SEARCH_PLACEHOLDER	Click here to search for items
+ITEM_TITLE	Items
+LANGUAGE_AE	Arabic
+LANGUAGE_CZ	Czech
+LANGUAGE_DE	German
+LANGUAGE_EN	English
+LANGUAGE_ES	Spanish
+LANGUAGE_FR	French
+LANGUAGE_GR	Greek
+LANGUAGE_HU	Hungarian
+LANGUAGE_IT	Italian
+LANGUAGE_PL	Polish
+LANGUAGE_PT	Portuguese
+LANGUAGE_RO	Romanian
+LANGUAGE_RU	Russian
+LANGUAGE_SELECT	Select language
+LANGUAGE_TR	Turkish
+M2DEV_FIGURE_TEXT	Made for the community with love.
+MODAL_FAQ_GROUP_TYPE_NORMAL_BODY	The Normal Type is a type of item grouping where you will receive a random item from the group based on the percentage set on each item. The higher percentage an item has, the more likely you are to receive it often.
+MODAL_FAQ_GROUP_TYPE_NORMAL_TITLE	What is the Normal type?
+MODAL_FAQ_GROUP_TYPE_PCT_BODY	The Percentage Type is a type of item grouping where you will receive all the items from the group based on the percentage of each item. This means that if all items in the group have a 100% chance of receiving, you will receive all of them.
+MODAL_FAQ_GROUP_TYPE_PCT_TITLE	What is the Percentage Type?
+MODAL_FAQ_GROUP_TYPE_QUEST_BODY	The Quest Type is a type of item grouping that is mainly used for quests. These groups of items are mostly used to hold needed items for a dungeon, such as tickets. Another example is that you can use this quest type for multiple quest item usage, which means that you can set all items in a group that will trigger or run a function.
+MODAL_FAQ_GROUP_TYPE_QUEST_TITLE	What is the Quest Type?
+MODAL_FAQ_GROUP_TYPE_SPECIAL_BODY	The Special Type is a type of item grouping used for storing bonus values for specific items. This means that you can set which bonus values a certain item has. This is often used for amulets, rings, and other buff items.
+MODAL_FAQ_GROUP_TYPE_SPECIAL_TITLE	What is the Special Type?
+MODAL_FAQ_TITLE	Group Types
+PROTO_VERSION	Proto Version: %s
+RESET_SEARCH_AFTER_ADDING_ITEM	Reset the item search field after adding the item.
+SAVE_GROUP_NAME_LABEL	Save imported group name.
+SUB_TITLE_PARAGRAPH	A tool created and designed to facilitate and save time.
+TABLE_ITEM_AMOUNT	Amount
+TABLE_ITEM_ICON	Icon
+TABLE_ITEM_PART_PCT	Part %
+TABLE_ITEM_POS	#
+TABLE_ITEM_RARE_PCT	Rare %
+TABLE_ITEM_VNUM	V. Number

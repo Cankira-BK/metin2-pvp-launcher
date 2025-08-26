@@ -1,0 +1,76 @@
+APP_VERSION	App-Version: %s
+CHECKBOX_ANSI	ANSI-Kodierung
+CHECKBOX_SHOW_ITEM_NAME_ON_GROUP	Elementnamen in der Gruppe als Kommentar anzeigen.
+CHECKBOX_SHOW_ORIGINAL_GOLD_EXP_NAME	Originalnamen von Gold und Erfahrung beibehalten.
+CLOSE	Schließen
+CLOSE_ALERT	Schließen
+COPYRIGHT	Alle Rechte vorbehalten.
+COPYRIGHT_PARAGRAPH	Hergestellt mit viel Kaffee und Liebe.
+EXPORT_BUTTON	Gruppe exportieren
+GROUP_BLOCK_OUTPUT_PLACEHOLDER	Deine Gruppe wird hier in diesem Block verarbeitet.
+GROUP_DESCRIPTION	Hauptdaten der Gruppe, Name und VNUM des Gegenstands.
+GROUP_ITEM_SEARCH_PLACEHOLDER	Klicke hier, um nach Gegenständen zu suchen
+GROUP_NAME	Name
+GROUP_NAME_PLACEHOLDER	Name der Gruppe
+GROUP_RESULT_TITLE	Gruppenergebnis
+GROUP_TITLE	Gruppe
+GROUP_TYPE	Typ
+GROUP_TYPE_NONE	Wählen...
+GROUP_TYPE_NORMAL	Normal
+GROUP_TYPE_PERCENTAGE	Prozentsatz
+GROUP_TYPE_QUEST	Quest
+GROUP_TYPE_SPECIAL	Spezial
+IMPORT_BUTTON	Importieren
+IMPORT_PARAGRAPH	Du kannst auch deine Gruppe importieren und alle Felder im Detail sehen, inklusive der Symbole.
+IMPORT_TEXTAREA_PLACEHOLDER	Füge hier deine Gruppe ein
+IMPORT_TITLE	Importieren
+IMPORT_WARNING_ALERT	Bitte nur eine Gruppe gleichzeitig importieren, da nur eine verarbeitet werden kann.
+INFO_WARNING	Dieses Tool befindet sich in der <b>Beta-Version</b>, es können Probleme auftreten. Um das Tool zu verbessern, melde bitte gefundene Fehler.
+ITEM_ADD_BUTTON	Gegenstand hinzufügen
+ITEM_AMOUNT	Menge
+ITEM_AMOUNT_PLACEHOLDER	Anz.
+ITEM_AMOUNT_PLACEHOLDER2	Anzahl der Gegenstände.
+ITEM_PARAGRAPH	Alle Gruppen-Gegenstände können unten definiert und angesehen werden.
+ITEM_PART_PCT	Teil-Prozentsatz
+ITEM_PART_PCT_PLACEHOLDER1	%
+ITEM_PART_PCT_PLACEHOLDER2	Prozentsatz für den Erhalt eines Teils.
+ITEM_RARE_PCT	Seltenheits-Prozentsatz
+ITEM_RARE_PCT_PLACEHOLDER1	%
+ITEM_RARE_PCT_PLACEHOLDER2	Prozentsatz für Bonus-Erhalt.
+ITEM_SEARCH_PLACEHOLDER	Klicke hier, um nach Gegenständen zu suchen
+ITEM_TITLE	Gegenstände
+LANGUAGE_AE	Arabisch
+LANGUAGE_CZ	Tschechisch
+LANGUAGE_DE	Deutsch
+LANGUAGE_EN	Englisch
+LANGUAGE_ES	Spanisch
+LANGUAGE_FR	Französisch
+LANGUAGE_GR	Griechisch
+LANGUAGE_HU	Ungarisch
+LANGUAGE_IT	Italienisch
+LANGUAGE_PL	Polnisch
+LANGUAGE_PT	Portugiesisch
+LANGUAGE_RO	Rumänisch
+LANGUAGE_RU	Russisch
+LANGUAGE_SELECT	Sprache auswählen
+LANGUAGE_TR	Türkisch
+M2DEV_FIGURE_TEXT	Für die Community mit Liebe gemacht.
+MODAL_FAQ_GROUP_TYPE_NORMAL_BODY	Der Typ „Normal“ ist eine Gruppierung, bei der du einen zufälligen Gegenstand aus der Gruppe erhältst, basierend auf dem jeweiligen Prozentsatz. Je höher der Prozentsatz, desto größer die Chance auf Erhalt.
+MODAL_FAQ_GROUP_TYPE_NORMAL_TITLE	Was ist der Typ Normal?
+MODAL_FAQ_GROUP_TYPE_PCT_BODY	Der Typ „Prozentsatz“ ist eine Gruppierung, bei der du alle Gegenstände in der Gruppe gemäß ihren Prozentwerten erhältst. Haben alle 100 %, bekommst du alle.
+MODAL_FAQ_GROUP_TYPE_PCT_TITLE	Was ist der Typ Prozentsatz?
+MODAL_FAQ_GROUP_TYPE_QUEST_BODY	Der Typ „Quest“ wird vor allem für Quests genutzt. Diese Gruppen enthalten z. B. Dungeon-Zutrittsgegenstände wie Tickets. Du kannst damit mehrere Questgegenstände verwenden, die Funktionen auslösen.
+MODAL_FAQ_GROUP_TYPE_QUEST_TITLE	Was ist der Typ Quest?
+MODAL_FAQ_GROUP_TYPE_SPECIAL_BODY	Der Typ „Spezial“ wird genutzt, um Bonuswerte bestimmter Gegenstände zu speichern. Du kannst definieren, welche Boni ein Gegenstand hat – z. B. bei Amuletten, Ringen oder Buff-Gegenständen.
+MODAL_FAQ_GROUP_TYPE_SPECIAL_TITLE	Was ist der Typ Spezial?
+MODAL_FAQ_TITLE	Gruppentypen
+PROTO_VERSION	Proto-Version: %s
+RESET_SEARCH_AFTER_ADDING_ITEM	Suchfeld nach Hinzufügen eines Gegenstands zurücksetzen.
+SAVE_GROUP_NAME_LABEL	Name der importierten Gruppe speichern.
+SUB_TITLE_PARAGRAPH	Ein Tool, das entwickelt wurde, um Zeit zu sparen und Dinge zu vereinfachen.
+TABLE_ITEM_AMOUNT	Menge
+TABLE_ITEM_ICON	Symbol
+TABLE_ITEM_PART_PCT	Teil %
+TABLE_ITEM_POS	#
+TABLE_ITEM_RARE_PCT	Selten %
+TABLE_ITEM_VNUM	V.-Nummer

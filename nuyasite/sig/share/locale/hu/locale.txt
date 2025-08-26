@@ -1,0 +1,76 @@
+APP_VERSION	Alkalmazás verziója: %s
+CHECKBOX_ANSI	ANSI kódolás
+CHECKBOX_SHOW_ITEM_NAME_ON_GROUP	Elem neve megjelenítése megjegyzésként a csoportban.
+CHECKBOX_SHOW_ORIGINAL_GOLD_EXP_NAME	Eredeti arany és tapasztalat nevek megtartása.
+CLOSE	Bezárás
+CLOSE_ALERT	Bezárás
+COPYRIGHT	Minden jog fenntartva.
+COPYRIGHT_PARAGRAPH	Sok kávéval és szeretettel készült.
+EXPORT_BUTTON	Csoport exportálása
+GROUP_BLOCK_OUTPUT_PLACEHOLDER	A csoportod itt lesz feldolgozva ebben a blokkban.
+GROUP_DESCRIPTION	A csoport fő adatai: az elem neve és VNUM-ja.
+GROUP_ITEM_SEARCH_PLACEHOLDER	Kattints ide elemek kereséséhez
+GROUP_NAME	Név
+GROUP_NAME_PLACEHOLDER	A csoport neve
+GROUP_RESULT_TITLE	Csoport eredménye
+GROUP_TITLE	Csoport
+GROUP_TYPE	Típus
+GROUP_TYPE_NONE	Válassz...
+GROUP_TYPE_NORMAL	Normál
+GROUP_TYPE_PERCENTAGE	Százalékos
+GROUP_TYPE_QUEST	Küldetés
+GROUP_TYPE_SPECIAL	Különleges
+IMPORT_BUTTON	Importálás
+IMPORT_PARAGRAPH	A csoportodat importálhatod is, és részletesen megtekintheted az összes mezőt, beleértve az ikonokat is.
+IMPORT_TEXTAREA_PLACEHOLDER	Illeszd be ide a csoportodat
+IMPORT_TITLE	Importálás
+IMPORT_WARNING_ALERT	Kérlek, egyszerre csak egy csoportot importálj, mivel egyszerre csak egy feldolgozása lehetséges.
+INFO_WARNING	Ez az eszköz <b>béta verzióban</b> van, előfordulhatnak hibák. Ha segítenél a fejlesztésében, kérlek jelentsd a hibákat.
+ITEM_ADD_BUTTON	Elem hozzáadása
+ITEM_AMOUNT	Mennyiség
+ITEM_AMOUNT_PLACEHOLDER	Menny.
+ITEM_AMOUNT_PLACEHOLDER2	Elemek mennyisége.
+ITEM_PARAGRAPH	A csoport összes eleme lent meghatározható és megtekinthető.
+ITEM_PART_PCT	Részesedés százalék
+ITEM_PART_PCT_PLACEHOLDER1	%
+ITEM_PART_PCT_PLACEHOLDER2	Az esély százaléka egy rész megszerzésére.
+ITEM_RARE_PCT	Ritka százalék
+ITEM_RARE_PCT_PLACEHOLDER1	%
+ITEM_RARE_PCT_PLACEHOLDER2	Bónusz megszerzésének valószínűsége százalékban.
+ITEM_SEARCH_PLACEHOLDER	Kattints ide elemek kereséséhez
+ITEM_TITLE	Elemek
+LANGUAGE_AE	Arab
+LANGUAGE_CZ	Cseh
+LANGUAGE_DE	Német
+LANGUAGE_EN	Angol
+LANGUAGE_ES	Spanyol
+LANGUAGE_FR	Francia
+LANGUAGE_GR	Görög
+LANGUAGE_HU	Magyar
+LANGUAGE_IT	Olasz
+LANGUAGE_PL	Lengyel
+LANGUAGE_PT	Portugál
+LANGUAGE_RO	Román
+LANGUAGE_RU	Orosz
+LANGUAGE_SELECT	Nyelv kiválasztása
+LANGUAGE_TR	Török
+M2DEV_FIGURE_TEXT	A közösség számára készült szeretettel.
+MODAL_FAQ_GROUP_TYPE_NORMAL_BODY	A „Normál” típusú csoport olyan elemcsoportosítás, ahol véletlenszerűen kapsz egy elemet a csoportból a megadott százalék alapján. Minél magasabb a százalék, annál nagyobb az esély.
+MODAL_FAQ_GROUP_TYPE_NORMAL_TITLE	Mi az a Normál típus?
+MODAL_FAQ_GROUP_TYPE_PCT_BODY	A „Százalékos” típusnál minden elemet megkaphatsz a csoportból a százalékuk alapján. Ha minden 100%, akkor mindet megkapod.
+MODAL_FAQ_GROUP_TYPE_PCT_TITLE	Mi az a Százalékos típus?
+MODAL_FAQ_GROUP_TYPE_QUEST_BODY	A „Küldetés” típus elsősorban küldetésekhez használt. Ilyen például dungeon belépők, jegyek. Használható több elem által történő eseményindításhoz is.
+MODAL_FAQ_GROUP_TYPE_QUEST_TITLE	Mi az a Küldetés típus?
+MODAL_FAQ_GROUP_TYPE_SPECIAL_BODY	A „Különleges” típus olyan elemcsoport, amely meghatározott tárgyak bónusz értékeit tárolja – például amulettek, gyűrűk vagy erősítő tárgyak esetében.
+MODAL_FAQ_GROUP_TYPE_SPECIAL_TITLE	Mi az a Különleges típus?
+MODAL_FAQ_TITLE	Csoporttípusok
+PROTO_VERSION	Proto verzió: %s
+RESET_SEARCH_AFTER_ADDING_ITEM	Keresés mező törlése elem hozzáadása után.
+SAVE_GROUP_NAME_LABEL	Importált csoport nevének mentése.
+SUB_TITLE_PARAGRAPH	Egy eszköz, ami időt spórol és megkönnyíti a munkát.
+TABLE_ITEM_AMOUNT	Mennyiség
+TABLE_ITEM_ICON	Ikon
+TABLE_ITEM_PART_PCT	Rész %
+TABLE_ITEM_POS	Szám
+TABLE_ITEM_RARE_PCT	Ritka %
+TABLE_ITEM_VNUM	V szám

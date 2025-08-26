@@ -1,0 +1,76 @@
+APP_VERSION	Verze aplikace: %s
+CHECKBOX_ANSI	Kódování ANSI
+CHECKBOX_SHOW_ITEM_NAME_ON_GROUP	Zobrazit název předmětu ve skupině jako komentář.
+CHECKBOX_SHOW_ORIGINAL_GOLD_EXP_NAME	Zachovat původní názvy zlata a zkušeností.
+CLOSE	Zavřít
+CLOSE_ALERT	Zavřít
+COPYRIGHT	Všechna práva vyhrazena.
+COPYRIGHT_PARAGRAPH	Vyrobeno s velkým množstvím kávy a lásky.
+EXPORT_BUTTON	Exportovat skupinu
+GROUP_BLOCK_OUTPUT_PLACEHOLDER	Tvá skupina bude zpracována zde v tomto bloku.
+GROUP_DESCRIPTION	Hlavní data skupiny – název a VNUM předmětu.
+GROUP_ITEM_SEARCH_PLACEHOLDER	Klikni sem pro hledání předmětů
+GROUP_NAME	Název
+GROUP_NAME_PLACEHOLDER	Název skupiny
+GROUP_RESULT_TITLE	Výsledek skupiny
+GROUP_TITLE	Skupina
+GROUP_TYPE	Typ
+GROUP_TYPE_NONE	Vyber...
+GROUP_TYPE_NORMAL	Normální
+GROUP_TYPE_PERCENTAGE	Procentuální
+GROUP_TYPE_QUEST	Úkol
+GROUP_TYPE_SPECIAL	Special
+IMPORT_BUTTON	Importovat
+IMPORT_PARAGRAPH	Můžeš také importovat svoji skupinu a zobrazit všechna pole podrobně, včetně ikon.
+IMPORT_TEXTAREA_PLACEHOLDER	Vlož sem svoji skupinu
+IMPORT_TITLE	Import
+IMPORT_WARNING_ALERT	Importuj prosím jen jednu skupinu najednou, protože lze zpracovat pouze jednu skupinu.
+INFO_WARNING	Tento nástroj je ve <b>verzi beta</b>, mohou se vyskytnout chyby. Pomoz prosím s jeho vylepšením a nahlaš nalezené chyby.
+ITEM_ADD_BUTTON	Přidat předmět
+ITEM_AMOUNT	Množství
+ITEM_AMOUNT_PLACEHOLDER	Ks
+ITEM_AMOUNT_PLACEHOLDER2	Množství předmětů.
+ITEM_PARAGRAPH	Všechny položky skupiny lze níže definovat a zobrazit.
+ITEM_PART_PCT	Podíl v %
+ITEM_PART_PCT_PLACEHOLDER1	%
+ITEM_PART_PCT_PLACEHOLDER2	Procento pravděpodobnosti obdržení části.
+ITEM_RARE_PCT	Vzácnost v %
+ITEM_RARE_PCT_PLACEHOLDER1	%
+ITEM_RARE_PCT_PLACEHOLDER2	Procento pro získání bonusu.
+ITEM_SEARCH_PLACEHOLDER	Klikni sem pro hledání předmětů
+ITEM_TITLE	Předměty
+LANGUAGE_AE	Arabština
+LANGUAGE_CZ	Čeština
+LANGUAGE_DE	Němčina
+LANGUAGE_EN	Angličtina
+LANGUAGE_ES	Španělština
+LANGUAGE_FR	Francouzština
+LANGUAGE_GR	Řečtina
+LANGUAGE_HU	Maďarština
+LANGUAGE_IT	Italština
+LANGUAGE_PL	Polština
+LANGUAGE_PT	Portugalština
+LANGUAGE_RO	Rumunština
+LANGUAGE_RU	Ruština
+LANGUAGE_SELECT	Vyber jazyk
+LANGUAGE_TR	Turečtina
+M2DEV_FIGURE_TEXT	Vyrobeno s láskou pro komunitu.
+MODAL_FAQ_GROUP_TYPE_NORMAL_BODY	Typ „Normální“ je typ seskupení, kde obdržíš náhodný předmět ze skupiny na základě procent nastavených u každé položky. Čím vyšší procento, tím vyšší šance na získání.
+MODAL_FAQ_GROUP_TYPE_NORMAL_TITLE	Co je typ Normální?
+MODAL_FAQ_GROUP_TYPE_PCT_BODY	Typ „Procentuální“ je seskupení, kde obdržíš všechny předměty na základě jejich individuálních procent. Pokud mají všechny 100 %, dostaneš je všechny.
+MODAL_FAQ_GROUP_TYPE_PCT_TITLE	Co je typ Procentuální?
+MODAL_FAQ_GROUP_TYPE_QUEST_BODY	Typ „Úkol“ se používá hlavně pro úkoly – často pro potřebné předměty do dungeonů, jako jsou vstupenky. Lze jej použít i pro spouštění funkcí více předměty.
+MODAL_FAQ_GROUP_TYPE_QUEST_TITLE	Co je typ Úkol?
+MODAL_FAQ_GROUP_TYPE_SPECIAL_BODY	Typ „Special“ slouží pro ukládání bonusových hodnot konkrétních předmětů – například amulety, prsteny a další předměty s posílením.
+MODAL_FAQ_GROUP_TYPE_SPECIAL_TITLE	Co je typ Special?
+MODAL_FAQ_TITLE	Typy skupin
+PROTO_VERSION	Verze Prota: %s
+RESET_SEARCH_AFTER_ADDING_ITEM	Po přidání položky vymazat vyhledávací pole.
+SAVE_GROUP_NAME_LABEL	Uložit název importované skupiny.
+SUB_TITLE_PARAGRAPH	Nástroj vytvořený pro usnadnění práce a úsporu času.
+TABLE_ITEM_AMOUNT	Množství
+TABLE_ITEM_ICON	Ikona
+TABLE_ITEM_PART_PCT	Podíl %
+TABLE_ITEM_POS	#
+TABLE_ITEM_RARE_PCT	Vzácné %
+TABLE_ITEM_VNUM	V. číslo
