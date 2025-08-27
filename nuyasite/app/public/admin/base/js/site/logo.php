@@ -1,1 +1,0 @@
-<script src="<?=URI::public_path('global/plugins/bootstrap-fileinput/bootstrap-fileinput.js');?>" type="text/javascript"></script>

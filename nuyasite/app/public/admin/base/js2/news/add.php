@@ -1,1 +1,0 @@
-<script src="<?=URI::public_path('');?>pages/scripts/components-editors.min.js" type="text/javascript"></script>
